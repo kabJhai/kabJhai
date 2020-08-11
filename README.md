@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabjhai" alt="kabjhai" /> </p>
 
-- 🔭 I’m currently working on **Python Automation**
+- 🔭 I’m currently working as a **Full Stack Developer**
 
 - 🌱 I’m currently learning **React , Vue Js, Swift**
 
