@@ -23,3 +23,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kabjhai&show_icons=true&count_private=true" alt="kabjhai" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kabJhai)](https://github.com/ryo-ma/github-profile-trophy)
