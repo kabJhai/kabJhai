@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a **Full Stack Developer**
 
-- 🌱 I’m currently learning **React , Vue Js, Swift**
+<!-- - 🌱 I’m currently learning **React , Vue Js, Swift** -->
 
 - 👯 I’m looking to collaborate on **open source projects on Computer vision, automation , NLP ...**
 
