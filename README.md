@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabjhai" alt="kabjhai" /> </p>
 
-- 🔭 I’m currently working as a **Full Stack Developer**
+- 🔭 I’m currently working as a **Machine Learning Research Fellow (Computer Vision)**
 
 <!-- - 🌱 I’m currently learning **React , Vue Js, Swift** -->
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **open cv, tensorflow, computer vision, machine learning, android development, and wen development**
 
-- 📫 How to reach me **kabilahaile@gmail.com, [LinkedIn](https://www.linkedin.com/in/kabila-haile/)**
+- 📫 How to reach me **kabilahaile@gmail.com or kabilahailesoboka@gmail.com, [LinkedIn](https://www.linkedin.com/in/kabila-haile/)**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabjhai)](https://github.com/anuraghazra/github-readme-stats)
 
