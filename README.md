@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kabila Haile</h1>
-<h3 align="center">A deligent full stack develper from Ethiopia</h3>
+<h3 align="center">A deligent Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabjhai" alt="kabjhai" /> </p>
 
 - 🔭 I’m currently working as a **Machine Learning Research Fellow (Computer Vision)**
-
-<!-- - 🌱 I’m currently learning **React , Vue Js, Swift** -->
 
 - 👯 I’m looking to collaborate on **open source projects on Computer vision, automation , NLP ...**
 
@@ -13,9 +11,9 @@
 
 - 📝 I regulary write articles on [LinkedIn](LinkedIn)
 
-- 💬 Ask me about **open cv, tensorflow, computer vision, machine learning, android development, and wen development**
+- 💬 Ask me about **pytorch, computer vision, mobile app development, and wen development**
 
-- 📫 How to reach me **kabilahaile@gmail.com or kabilahailesoboka@gmail.com, [LinkedIn](https://www.linkedin.com/in/kabila-haile/)**
+- 📫 How to reach me **kabilahailesoboka@gmail.com, [LinkedIn](https://www.linkedin.com/in/kabila-haile/)**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabjhai)](https://github.com/anuraghazra/github-readme-stats)
 
