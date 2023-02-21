@@ -9,7 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.kuushtech.com #Our products section](https://www.kuushtech.com #Our products section)
 
-- 📝 I regulary write articles on [LinkedIn](LinkedIn)
+- 📝 I am planning to regulary write articles on [LinkedIn](LinkedIn)
+
+- 👨‍🏫 I have 2+ years of teaching experience with strong research background. 
 
 - 💬 Ask me about **pytorch, computer vision, mobile app development, and wen development**
 
