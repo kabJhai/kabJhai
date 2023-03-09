@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabjhai" alt="kabjhai" /> </p>
 
-- 🔭 I’m currently working as a **Machine Learning Research Fellow (Computer Vision)**
+- 🔭 I’m currently working as a **Machine Learning Research Fellow (Computer Vision) and Software Engineer**
 
 - 👯 I’m looking to collaborate on **open source projects on Computer vision, automation , NLP ...**
 
