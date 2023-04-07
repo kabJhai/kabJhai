@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabjhai" alt="kabjhai" /> </p>
 
-- 🔭 I’m currently working as a **Machine Learning Research Fellow (Computer Vision) and Software Engineer**
+- 🔭 I’m currently working as a **Machine Learning Research Fellow (Computer Vision) and Software Engineer at MPS**
 
-- 👯 I’m looking to collaborate on **open source projects on Computer vision, automation , NLP ...**
-
-- 👨‍💻 All of my projects are available at [https://www.kuushtech.com #Our products section](https://www.kuushtech.com #Our products section)
+- 👯 I’m looking to collaborate on **open source projects on Computer vision, and Robotics**
 
 - 📝 I am planning to regulary write articles on [LinkedIn](LinkedIn)
 
 - 👨‍🏫 I have 2+ years of teaching experience with strong research background. 
 
-- 💬 Ask me about **pytorch, computer vision, mobile app development, and wen development**
+- 💬 Ask me about **pytorch, computer vision, mobile app development, and web development**
 
 - 📫 How to reach me **kabilahailesoboka@gmail.com, [LinkedIn](https://www.linkedin.com/in/kabila-haile/)**
 
