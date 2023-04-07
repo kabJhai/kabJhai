@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kabila Haile</h1>
-<h3 align="center">Fullstack Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabjhai" alt="kabjhai" /> </p>
 
-- 🔭 I’m currently working as a **Machine Learning Research Fellow (Computer Vision) and Software Engineer at MPS**
+- 🔭 I’m currently working as a **Software Engineer at MPS and Machine Learning Research Fellow [Part Time]
 
 - 👯 I’m looking to collaborate on **open source projects on Computer vision, and Robotics**
 
