@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects on Computer vision, and Robotics**
 
-- 📝 I am planning to regulary write articles on [LinkedIn]([LinkedIn](https://www.linkedin.com/in/kabila-haile/))
+- 📝 I am planning to regulary write articles on [LinkedIn](https://www.linkedin.com/in/kabila-haile/)
 
 - 👨‍🏫 I have 2+ years of teaching experience with strong research background. 
 
