@@ -15,6 +15,6 @@
 
 - 📫 How to reach me **kabilahailesoboka@gmail.com, [LinkedIn](https://www.linkedin.com/in/kabila-haile/)**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabjhai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabjhai&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabjhai&show_icons=true&count_private=true" alt="kabjhai" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kabjhai&show_icons=true&count_private=true" alt="kabjhai" /> -->
