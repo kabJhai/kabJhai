@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabjhai" alt="kabjhai" /> </p>
 
-- 🔭 I’m currently working as a **Software Engineer at MPS and Machine Learning Research Fellow [Fatima Fellowship]**
+- 🔭 I’m currently working as a **Software Engineer at MPS**
+  
+- I am also a **Machine Learning Research Fellow [Fatima Fellowship]**
 
 - 👯 I’m looking to collaborate on **open source projects on Computer vision, and Robotics**
 
