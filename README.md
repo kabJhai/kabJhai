@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabjhai" alt="kabjhai" /> </p>
 
-- 🔭 I’m currently working as a **Software Engineer at MPS**
+- 🔭 I’m currently working as a **Senior Software Engineer at MPS**
   
 - I am also a **Machine Learning Research Fellow [Fatima Fellowship]**
 
