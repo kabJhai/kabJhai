@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **pytorch, computer vision, mobile app development, and web development**
 
-- 📫 How to reach me **kabilahailesoboka@gmail.com, [LinkedIn](https://www.linkedin.com/in/kabila-haile/)**
+- 📫 How to reach me **kabilahailesoboka@gmail.com, kabilasoboka@utexas.edu, [LinkedIn](https://www.linkedin.com/in/kabila-haile/)**
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabjhai&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
