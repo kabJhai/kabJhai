@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabjhai" alt="kabjhai" /> </p>
 
 - 🔭 I’m currently working as a **Senior Software Engineer at MPS**
-- I'm also doing my graduate studies on **Artificial Intelligence at University of Texas at Austin**
+- I'm also doing my graduate studies on **Artificial Intelligence** at **University of Texas at Austin**
   
 - I was a **Machine Learning Research Fellow [Fatima Fellowship]**
 
