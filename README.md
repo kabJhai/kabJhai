@@ -5,11 +5,12 @@
 
 - 🔭 I’m currently working as a **Senior Software Engineer at MPS**
   
-- I am also a **Machine Learning Research Fellow [Fatima Fellowship]**
+- I was a **Machine Learning Research Fellow [Fatima Fellowship]**
 
 - 👯 I’m looking to collaborate on **open source projects on Computer vision, and Robotics**
 
-- 👨‍🏫 I have 2+ years of teaching experience with strong research background. 
+- 👨‍🏫 I have 2+ years of teaching experience with strong research background.
+- I have 4+ years of full-time software development experience and 2+ years of freelance development. 
 
 - 💬 Ask me about **pytorch, computer vision, mobile app development, and web development**
 
