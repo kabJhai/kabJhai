@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kabila Haile</h1>
-<h3 align="center">Senior Software Engineer | AI Graduate Student at UT Austin | Product Builder from Ethiopia</h3>
+<h3 align="center">Senior Software Engineer | AI Graduate Student at UT Austin | Builder</h3>
 
 <p align="center">
   I build practical software and AI-driven systems.
